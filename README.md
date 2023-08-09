@@ -19,5 +19,5 @@
 
 ### 🍬 🎁
 
-- [NSC-GPU-GUIDE](https://github.com/duguyue100/NSC-GPU-GUIDE): Still one of the best GPU setup guide I could find around internet.
+- [NSC-GPU-GUIDE](https://github.com/duguyue100/NSC-GPU-GUIDE): Still the best GPU setup guide I could find around internet.
 - [.vim](https://github.com/duguyue100/.vim): My dot files.
