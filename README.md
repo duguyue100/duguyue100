@@ -1,7 +1,7 @@
 <h2 align="center">Hi there 👋</h2>
 <h3 align="center">yep, I have no motivational quotes here.</h3>
 
-[![wakatime](https://wakatime.com/badge/user/31e0b916-8fe8-465f-8019-a85184b4887b.svg)](https://wakatime.com/@31e0b916-8fe8-465f-8019-a85184b4887b)
+![wakatime](https://wakatime.com/badge/user/31e0b916-8fe8-465f-8019-a85184b4887b.svg)
 
 ### 🛠 🔬
 
