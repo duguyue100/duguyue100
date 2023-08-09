@@ -1,9 +1,12 @@
 <h2 align="center">Hi there 👋</h2>
+<h3 align="center">yep, I have no motivational quotes here.</h3>
+
+[![wakatime](https://wakatime.com/badge/user/31e0b916-8fe8-465f-8019-a85184b4887b.svg)](https://wakatime.com/@31e0b916-8fe8-465f-8019-a85184b4887b)
 
 ### 🛠 🔬
 
-- [PyAER](https://github.com/duguyue100/pyaer)
-- [v2e](https://github.com/SensorsINI/v2e)
+- [PyAER](https://github.com/duguyue100/pyaer): Needs refactoring and testing.
+- [v2e](https://github.com/SensorsINI/v2e): V2.0 should be a total rewrite of the current repo.
 
 ### 🤔 ✍
 
@@ -20,4 +23,4 @@
 ### 🍬 🎁
 
 - [NSC-GPU-GUIDE](https://github.com/duguyue100/NSC-GPU-GUIDE): Still the best GPU setup guide I could find around internet.
-- [.vim](https://github.com/duguyue100/.vim): My dot files.
+- [.vim](https://github.com/duguyue100/.vim): Actually my dotfiles, surprisingly easy to setup.
