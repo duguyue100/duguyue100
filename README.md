@@ -1,16 +1,23 @@
-### Hi there 👋
+<h2 align="center">Hi there 👋</h2>
 
-<!--
-**duguyue100/duguyue100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠 🔬
 
-Here are some ideas to get you started:
+- [PyAER](https://github.com/duguyue100/pyaer)
+- [v2e](https://github.com/SensorsINI/v2e)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🤔 ✍
+
+- A better marriage between Transformers and event cameras.
+- Various methods to mine insights from data.
+- RLHF?
+
+### 👀 📡
+
+- [ReduNet: A White-box Deep Network from the Principle of Maximizing Rate Reduction](https://arxiv.org/abs/2105.10446)
+- [Can Neural Network Memorization Be Localized?](https://arxiv.org/abs/2307.09542)
+- [Implicit Self-Regularization in Deep Neural Networks: Evidence from Random Matrix Theory and Implications for Learning](https://jmlr.org/papers/v22/20-410.html)
+
+### 🍬 🎁
+
+- [NSC-GPU-GUIDE](https://github.com/duguyue100/NSC-GPU-GUIDE): Still one of the best GPU setup guide I could find around internet.
+- [.vim](https://github.com/duguyue100/.vim): My dot files.
