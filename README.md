@@ -17,8 +17,9 @@
 ### 👀 📡
 
 - [ReduNet: A White-box Deep Network from the Principle of Maximizing Rate Reduction](https://arxiv.org/abs/2105.10446)
-- [Can Neural Network Memorization Be Localized?](https://arxiv.org/abs/2307.09542)
-- [Implicit Self-Regularization in Deep Neural Networks: Evidence from Random Matrix Theory and Implications for Learning](https://jmlr.org/papers/v22/20-410.html)
+- [An Invitation to Deep Reinforcement Learning](https://arxiv.org/pdf/2312.08365.pdf)
+- [ImageBind: One Embedding Space To Bind Them All](https://arxiv.org/pdf/2305.05665.pdf)
+- [White-Box Transformers via Sparse Rate Reduction](https://arxiv.org/pdf/2306.01129.pdf)
 
 ### 🦉🙈👉[🔗](./paper-reading-summary.md)
 
