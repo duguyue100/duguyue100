@@ -20,6 +20,8 @@
 - [Can Neural Network Memorization Be Localized?](https://arxiv.org/abs/2307.09542)
 - [Implicit Self-Regularization in Deep Neural Networks: Evidence from Random Matrix Theory and Implications for Learning](https://jmlr.org/papers/v22/20-410.html)
 
+### 🦉🙈
+
 ### 🍬 🎁
 
 - [NSC-GPU-GUIDE](https://github.com/duguyue100/NSC-GPU-GUIDE): Still the best GPU setup guide I could find around internet.
